@@ -1,4 +1,4 @@
-# DayoneCHallenge
+# Dayonechallenge
 
 A python program for a user to enter their birth year details.
 
